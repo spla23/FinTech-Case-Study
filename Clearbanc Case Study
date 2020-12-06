@@ -173,24 +173,17 @@ Adjacents
 
 
 ### Business Impact {#business-impact}
-
+Traditionally, business lending has been the domain of large intstitutions.
 
 ### Core Metrics[^16]
 
 Pull through rate
-
 Decision to close time
-
 Abandoned loan rate
-
 Average origination value
-
 Application approval rate
-
 Net charge-off rate
-
 Customer acquisition cost
-
 Average number of conditions per loan
 
 
@@ -263,18 +256,28 @@ Average number of conditions per loan
 
 ### Financial Services like Accounting and FP&A {#financial-services-like-accounting-and-fp&a}
 
-The acquisition or a build out of a product like Wave or integration of a cloud ERP
+The acquisition or a build out of a product like Wave or integration of a cloud ERP.
 
-Why
+Why: Provide valuable services to entrepreneurs to be the complete financial solution for small business.  Acquire more data about the lending market, different business models and the viability of different domains and industries.
 
-Tech
+Tech: Cloud-based technologies integrated via APIs and microservices architecture.
 
 
 ### Payments as a Service[^17]
 
+The most complex piece in a payments solution and in a lending solution is the due diligence in performing credit KYC/KYB check and adhering to local and international compliance.
+All businesses need a way to get paid. Integrating with a partner like Stripe would enable them to resell Stripes' services and make an additional % of revenue from client revenue.
+
+Why: By offering a payment solution, Clearbanc can capitalize on the onboarding and gain transactional revenue by supporting their borrowwer's business with integrated payment services.
+This becomes an additional recurring source of revenue and a valuable service to small business. Adittionally, this puts Clearbanc in control of disbursements in the event of unpaid debt.
+Tech: Integration and partnership with a modern payments platform, like Stripe. 
 
 ### Common Data Model[^18]
+dobe, Microsoft, and SAP joined to together to develop the Open Data Initiative—a collection of standard data formats that make data exchange between applications and platforms a reality.
+The common data model is a shared data language to enable enhanced machine learning applications and to simplify comparisons of businesses and industries.
 
+Why: The use of a common machine language enables all the disparate data sources Clearbanc uses to be tied together in a unviversal schema.
+This makes it easier to build reports, create new cionnections and automations, and more connect core business entities like marketing, projects, finance, and operations to Clearbanc's pool of ecommerce data.
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
